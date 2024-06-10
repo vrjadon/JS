@@ -20,4 +20,5 @@ Steps of Execution Phase
 - values given to variables, nothing changes in function
 - when function call is encountered it makes it own executionthread + new variable environment
 - and MCP AND EP repeated for the functions
+  
 ![enter image description here](https://media.geeksforgeeks.org/wp-content/uploads/20201213102457/global.png)
